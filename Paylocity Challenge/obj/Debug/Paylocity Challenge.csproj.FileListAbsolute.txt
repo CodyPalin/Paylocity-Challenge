@@ -1,0 +1,10 @@
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\bin\Debug\Paylocity Challenge.exe.config
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\bin\Debug\Paylocity Challenge.exe
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\bin\Debug\Paylocity Challenge.pdb
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity Challenge.csprojAssemblyReference.cache
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity_Challenge.Form1.resources
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity_Challenge.Properties.Resources.resources
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity Challenge.csproj.GenerateResource.cache
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity Challenge.exe
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity Challenge.pdb
+C:\Users\Cody Palin\source\repos\Paylocity Challenge\Paylocity Challenge\obj\Debug\Paylocity_Challenge.NameForm.resources

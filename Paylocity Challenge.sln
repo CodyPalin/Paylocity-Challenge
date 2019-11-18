@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paylocity Challenge", "Paylocity Challenge\Paylocity Challenge.csproj", "{03C48D59-6CFF-4757-9082-37795DE9404C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C48D59-6CFF-4757-9082-37795DE9404C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C48D59-6CFF-4757-9082-37795DE9404C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C48D59-6CFF-4757-9082-37795DE9404C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C48D59-6CFF-4757-9082-37795DE9404C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11FBC9B1-BF19-40A8-AA28-CBB9039B109C}
+	EndGlobalSection
+EndGlobal
